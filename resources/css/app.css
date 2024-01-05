@@ -1,0 +1,9 @@
+/* style.css atau app.css */
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+
+/* Tambahkan kode CSS khusus Anda di sini */
